@@ -1,4 +1,4 @@
-langchain==0.1.350
+langchain==0.0.350
 streamlit==1.27.0
 chromadb==0.4.6
 pypdf==3.14.0
