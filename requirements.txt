@@ -1,8 +1,8 @@
-langchain==0.0.350
+langchain==0.1.20
 streamlit==1.27.0
 chromadb==0.4.6
 pypdf==3.14.0
-unstructured==0.9.14
-transformers==4.35.0
-torch==2.2.0
-sentence-transformers==2.2.2
+rich==14.1.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
